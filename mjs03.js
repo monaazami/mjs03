@@ -1,14 +1,14 @@
 var questions = [
     {
-        prompt: "What color is banana? \n (a)Yellow \n(b)Red \(c)Orange ",
+        prompt: "What color is banana? \n(a)Yellow \n(b)Red \n(c)Orange ",
         answer:"a"
     },
     {
-        prompt: "What color is apple? \n (a)Yellow \n(b)Red & Green \(c)Brown ",
+        prompt: "What color is apple? \n(a)Yellow \n(b)Red & Green \n(c)Brown ",
         answer:"b"
     },
     {
-        prompt: "What color is strawberry? \n (a)Yellow \n(b)Red \(c)Blue ",
+        prompt: "What color is strawberry? \n(a)Yellow \n(b)Red \n(c)Blue ",
         answer:"b"
     }
 ]
